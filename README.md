@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GonzoTomas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Thomas
+- 👀 I’m interested in education
+- 🌱 I’m currently learning code
+- 💞️ I’m looking to collaborate on University
+- 📫 Just send me message
 
 <!---
 GonzoTomas/GonzoTomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
